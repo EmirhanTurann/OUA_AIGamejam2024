@@ -73,7 +73,7 @@ I developed the core gameplay systems of the prototype, including:
 
 ## Gameplay
 
-![download (4)](https://github.com/user-attachments/assets/cf6b3320-a1aa-48b8-951d-5d0881c6bf01)
+![download (6) (2)](https://github.com/user-attachments/assets/53684749-377a-4058-a155-75abf6393422)
 ![download (2) (1)](https://github.com/user-attachments/assets/0622c0a2-1d5e-4e04-b64d-586ac1073042)
 ![download (5) (1)](https://github.com/user-attachments/assets/1ed23f26-d956-4295-b05a-80d01499019f)
 ![download (2) (2)](https://github.com/user-attachments/assets/9e6d9666-d399-496b-b0cb-802a06c698f0)
